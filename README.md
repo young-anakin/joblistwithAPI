@@ -17,7 +17,7 @@ This project is a Job Listing Application built with Next.js and Tailwind CSS. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
+   git clone https://github.com/Micheal-Gashaww/Learning_Phase.git
 1.  bashCopy codecd Job-list
     
 2.  bashCopy codenpm install
@@ -70,8 +70,8 @@ Acknowledgments
 *   Next.js
     
 *   Tailwind CSS
-![Screenshot (860)](https://github.com/user-attachments/assets/b9f7a3d1-f99b-4925-91e4-81ba1a7c2ae5)
-![Screenshot (859)](https://github.com/user-attachments/assets/4c95eef8-0cff-438c-a91b-d67351d0a451)
-![Screenshot (858)](https://github.com/user-attachments/assets/ab1c83d2-a90d-4394-96c6-69f165a497f4)
-![Screenshot (857)](https://github.com/user-attachments/assets/77f23c32-8274-40bd-bc60-81ec42109476)
+![Screenshot (864)](https://github.com/user-attachments/assets/1945e690-27d4-41f5-b327-ebcac1a424eb)
+![Screenshot (863)](https://github.com/user-attachments/assets/14b0b11f-255f-4a05-b840-80e79416ab31)
+![Screenshot (862)](https://github.com/user-attachments/assets/bc30c7d5-8d08-48ce-b242-9fe69ca919e5)
+![Screenshot (861)](https://github.com/user-attachments/assets/9414991f-5e2b-4d2f-8544-ceded0f2b2cc)
 # joblistwithAPI
